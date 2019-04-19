@@ -1,3 +1,13 @@
+#data
 *.jpg
 *.zip
+# configuration
 *.json
+# result
+*.png
+*.index
+*.meta
+*.data-00000-of-00001
+*.DESKTOP-G8SVGB3
+#__pycache__
+*.pyc
